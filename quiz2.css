@@ -35,14 +35,7 @@ p#default{
     font-weight: 600;
 }
 
-div#quest{
-    position:absolute;
-		top: 220px;
-		left:30px;
-    font-size: 14px;
-    width:310px;
-    height: 90px;
-}
+
 
 div#groupname{
     position:absolute;
@@ -67,6 +60,16 @@ div#groupname2{
     color: #ffffff;
     font-weight: bolder;
 }
+
+div#quest{
+  position:absolute;
+  top: 380px;
+  left:30px;
+  font-size: 14px;
+  width:200px;
+  height: 140px;
+}
+
 .parent {
   /*親要素はrelativeに*/
   position: relative;
@@ -79,7 +82,7 @@ div#sentaku1{
 		top: 35px;
 		left:0px;
     font-size: 18px;
-    width:160px;
+    width:150px;
     height: 90px;
     z-index:10000;
 }
@@ -97,7 +100,7 @@ div#sentaku2{
 		top: 35px;
 		left:0px;
     font-size: 18px;
-    width:160px;
+    width:150px;
     height: 90px;
     z-index:10000;
 }
@@ -108,7 +111,7 @@ div#sentaku3{
 		top: 35px;
 		left:0px;
     font-size: 18px;
-    width:160px;
+    width:150px;
     height: 90px;
     z-index:10000;
 }
@@ -119,7 +122,7 @@ div#sentaku4{
 		top: 35px;
 		left:0px;
     font-size: 18px;
-    width:160px;
+    width:150px;
     height: 90px;
     z-index:10000;
 }
@@ -141,7 +144,7 @@ div#sentaku4{
     text-decoration: none;
     border-radius: 30px;
     cursor: pointer;
-    width: 173px;
+    width: 160px;
     height: 95px;
 }
 .example1 input:checked+label{
@@ -169,7 +172,7 @@ div#sentaku4{
     text-decoration: none;
     border-radius: 30px;
     cursor: pointer;
-    width: 173px;
+    width: 160px;
     height: 95px;
 }
 .example2 input:checked+label{
@@ -197,7 +200,7 @@ div#sentaku4{
     text-decoration: none;
     border-radius: 30px;
     cursor: pointer;
-    width: 173px;
+    width: 160px;
     height: 95px;
 }
 .example3 input:checked+label{
@@ -225,7 +228,7 @@ div#sentaku4{
     text-decoration: none;
     border-radius: 30px;
     cursor: pointer;
-    width: 173px;
+    width: 160px;
     height: 95px;
 }
 .example4 input:checked+label{
@@ -242,7 +245,7 @@ div#sentaku4{
 #nextbutton{
   position:absolute;
   text-align: center;
-  top: 500px;
+  top: 490px;
   left: 295px;
   font-size: 15px;
   width: 120px;
@@ -259,7 +262,7 @@ div#sentaku4{
 #kekka{
   position:absolute;
   text-align: center;
-  top: 500px;
+  top: 490px;
   left: 150px;
   font-size: 15px;
   width: 120px;
