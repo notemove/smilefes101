@@ -36,7 +36,7 @@ p#default{
 }
 
 div#quest{
-    position:relative;
+    position:absolute;
 		top: 220px;
 		left:30px;
     font-size: 14px;
@@ -45,7 +45,7 @@ div#quest{
 }
 
 div#groupname{
-    position:relative;
+    position:absolute;
 		top: 20px;
 		left:30px;
     font-size: 14px;
@@ -57,7 +57,7 @@ div#groupname{
 }
 
 div#groupname2{
-    position:relative;
+    position:absolute;
 		top: 20px;
 		left:30px;
     font-size: 14px;
