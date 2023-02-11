@@ -38,11 +38,12 @@ html {
     text-align: center;
   }
 
+
 nav{
     position:absolute;
     text-align: center;
-	  top: 750px;
-	  left:130px;
+	  top: 650px;
+	  left:110px;
     font-size: 18px;
     width:160px;
     height: 90px;

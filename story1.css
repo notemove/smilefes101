@@ -29,7 +29,7 @@ body{
 
 div#text_q{
     position:relative;
-		top: 660px;
+		top: 560px;
 		left:60px;
     font-size: 17px;
     width:290px;
@@ -38,7 +38,7 @@ div#text_q{
 
 div#text_s{
     position:relative;
-		top:570px;
+		top:500px;
 		left:75px;
     font-size: 17px;
     width:286px;
@@ -48,8 +48,8 @@ div#text_s{
 #nextbutton{
   position:absolute;
   text-align: center;
-  top: 850px;
-  left: 310px;
+  top: 750px;
+  left: 240px;
   font-size: 17px;
   width: 90px;
   height: 50px;
