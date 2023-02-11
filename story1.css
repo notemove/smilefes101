@@ -38,18 +38,18 @@ div#text_q{
 
 div#text_s{
     position:relative;
-		top:500px;
-		left:75px;
+		top:420px;
+		left:70px;
     font-size: 17px;
-    width:286px;
-    height: 100px;
+    width:260px;
+    height: 120px;
 }
 
 #nextbutton{
   position:absolute;
   text-align: center;
-  top: 750px;
-  left: 240px;
+  top: 640px;
+  left: 190px;
   font-size: 17px;
   width: 90px;
   height: 50px;
