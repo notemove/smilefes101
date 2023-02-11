@@ -39,10 +39,10 @@ p#default{
 
 div#groupname{
     position:absolute;
-		top: 20px;
-		left:30px;
+		top: 220px;
+		left:10px;
     font-size: 14px;
-    width:310px;
+    width:300px;
     height: 20px;
     background-color: rgba(232, 43, 179, 0.6);
     color: #ffffff;
@@ -51,10 +51,10 @@ div#groupname{
 
 div#groupname2{
     position:absolute;
-		top: 20px;
-		left:30px;
+		top: 240px;
+		left:10px;
     font-size: 14px;
-    width:310px;
+    width:300px;
     height: 40px;
     background-color: rgba(232, 43, 179, 0.6);
     color: #ffffff;
@@ -133,7 +133,7 @@ div#sentaku4{
 .example1 label{
     position:absolute;
     top: 270px;
-		left:18px;
+		left:2px;
     display: block;
     background: #eac3dc;
     color: #000;
@@ -161,7 +161,7 @@ div#sentaku4{
 .example2 label{
     position:absolute;
     top: 270px;
-		left:205px;
+		left:160px;
     display: block;
     background: #eac3dc;
     color: #000;
@@ -189,7 +189,7 @@ div#sentaku4{
 .example3 label{
     position:absolute;
     top: 375px;
-		left:18px;
+		left:2px;
     display: block;
     background: #eac3dc;
     color: #000;
@@ -217,7 +217,7 @@ div#sentaku4{
 .example4 label{
     position:absolute;
 		top: 375px;
-		left:205px;
+		left:160px;
     display: block;
     background: #eac3dc;
     color: #000;
@@ -242,34 +242,35 @@ div#sentaku4{
 #atari { position:absolute; width:200px; height:40px; top:280px; left:120px; border-radius: 10px; visibility: hidden; }
 #hazure{ position:absolute; width:200px; height:40px; top:280px; left:120px; border-radius: 10px; visibility: hidden;} 
 
-#nextbutton{
-  position:absolute;
-  text-align: center;
-  top: 490px;
-  left: 295px;
-  font-size: 15px;
-  width: 120px;
-  height: 50px;
-  z-index: 10000;
-  border-radius: 5px;
-  background-color: rgb(252, 151, 183); 
-  padding: 10px;
-  text-decoration: none;
-  color: white;
-  font-size: 25px;
-}
-
 #kekka{
   position:absolute;
   text-align: center;
-  top: 490px;
-  left: 150px;
+  top: 480px;
+  left: 30px;
   font-size: 15px;
   width: 120px;
   height: 50px;
   z-index: 10000;
   border-radius: 5px;
   background-color: rgb(151, 164, 252); 
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+
+#nextbutton{
+  position:absolute;
+  text-align: center;
+  top: 480px;
+  left: 160px;
+  font-size: 15px;
+  width: 120px;
+  height: 50px;
+  z-index: 10000;
+  border-radius: 5px;
+  background-color: rgb(252, 151, 183); 
   padding: 10px;
   text-decoration: none;
   color: white;
