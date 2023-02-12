@@ -27,8 +27,8 @@ html {
 
 p#default{
     position:relative;
-		top: -23px;
-		left:278px;
+		top: -20px;
+		left:200px;
     color:#CC0076;
     font-size: 50px;
     font-family: Arial;
@@ -137,8 +137,8 @@ div#sentaku4{
     display: block;
     background: #eac3dc;
     color: #000;
-    padding: 2px;
-    margin: 2px;
+    padding: 1px;
+    margin: 1px;
     box-sizing: border-box;
     text-align: center;
     text-decoration: none;
@@ -165,8 +165,8 @@ div#sentaku4{
     display: block;
     background: #eac3dc;
     color: #000;
-    padding: 2px;
-    margin: 2px;
+    padding: 1px;
+    margin: 1px;
     box-sizing: border-box;
     text-align: center;
     text-decoration: none;
@@ -193,8 +193,8 @@ div#sentaku4{
     display: block;
     background: #eac3dc;
     color: #000;
-    padding: 2px;
-    margin: 2px;
+    padding: 1px;
+    margin: 1px;
     box-sizing: border-box;
     text-align: center;
     text-decoration: none;
@@ -221,8 +221,8 @@ div#sentaku4{
     display: block;
     background: #eac3dc;
     color: #000;
-    padding: 2px;
-    margin: 2px;
+    padding: 1px;
+    margin: 1px;
     box-sizing: border-box;
     text-align: center;
     text-decoration: none;
@@ -245,7 +245,7 @@ div#sentaku4{
 #kekka{
   position:absolute;
   text-align: center;
-  top: 480px;
+  top: 475px;
   left: 30px;
   font-size: 15px;
   width: 120px;
@@ -253,7 +253,7 @@ div#sentaku4{
   z-index: 10000;
   border-radius: 5px;
   background-color: rgb(151, 164, 252); 
-  padding: 10px;
+  padding: 5px;
   text-decoration: none;
   color: white;
   font-size: 25px;
@@ -271,7 +271,7 @@ div#sentaku4{
   z-index: 10000;
   border-radius: 5px;
   background-color: rgb(252, 151, 183); 
-  padding: 10px;
+  padding: 5px;
   text-decoration: none;
   color: white;
   font-size: 25px;

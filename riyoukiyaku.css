@@ -28,10 +28,10 @@ html {
 }
 
 h3{
-  max-width: 320px;
-  max-height: 850px;
+  max-width: 300px;
+  max-height: 700px;
   margin-top: 140px;
-  font-size:15px;
+  font-size:14px;
   overflow-y: scroll; 
 }
 
@@ -50,10 +50,10 @@ h3{
 nav{
   position:absolute;
   text-align: center;
-  top: 850px;
-  left:80px;
+  top: 860px;
+  left:30px;
   font-size: 18px;
-  width:250px;
+  width:260px;
   height: 90px;
   z-index:10000;
 }

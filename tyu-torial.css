@@ -38,9 +38,9 @@ body{
     position:absolute;
     text-align: center;
     top: 640px;
-    left:192px;
+    left:200px;
     font-size: 18px;
-    width:125px;
+    width:120px;
     height: 90px;
     z-index:10000;
   }
