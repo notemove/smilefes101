@@ -42,8 +42,11 @@ html {
 nav{
     position:absolute;
     text-align: center;
-	  top: 550px;
-	  left:80px;
+    top: 95%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+	  /*top: 550px;
+	  left:80px;*/
     font-size: 18px;
     width:160px;
     height: 90px;
