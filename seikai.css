@@ -53,14 +53,14 @@ nav{
 		top: 440px;
 		left:50px;
     font-size: 14px;
-    width: 160px;
+    width: 200px;
     height: 90px;
 }
 
 div#seikaido{
   position:absolute;
-  top:250px;
-  left:75px;
+  top:230px;
+  left:70px;
   color:rgb(226, 43, 165);
   font-size: 80px;
   font-family: Arial, Helvetica, sans-serif;

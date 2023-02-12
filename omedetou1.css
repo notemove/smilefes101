@@ -38,8 +38,8 @@ html {
 nav{
   position:absolute;
   text-align: center;
-  top: 850px;
-  left:290px;
+  top: 640px;
+  left:190px;
   font-size: 18px;
   width:160px;
   height: 90px;
@@ -50,8 +50,8 @@ div#omedetou{
   position:absolute;
   text-align: center;
   border-radius: 5px;
-  top: 400px;
-  left:120px;
+  top: 320px;
+  left:60px;
   font-size: 30px;
   background: #eecae1;
   color: rgb(213, 43, 43);
