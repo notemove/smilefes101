@@ -63,7 +63,7 @@ div#groupname2{
 
 div#quest{
   position:absolute;
-  top: 380px;
+  top: 350px;
   left:30px;
   font-size: 14px;
   width:200px;
@@ -144,7 +144,7 @@ div#sentaku4{
     text-decoration: none;
     border-radius: 30px;
     cursor: pointer;
-    width: 160px;
+    width: 150px;
     height: 95px;
 }
 .example1 input:checked+label{
@@ -172,7 +172,7 @@ div#sentaku4{
     text-decoration: none;
     border-radius: 30px;
     cursor: pointer;
-    width: 160px;
+    width: 150px;
     height: 95px;
 }
 .example2 input:checked+label{
@@ -200,7 +200,7 @@ div#sentaku4{
     text-decoration: none;
     border-radius: 30px;
     cursor: pointer;
-    width: 160px;
+    width: 150px;
     height: 95px;
 }
 .example3 input:checked+label{
@@ -228,7 +228,7 @@ div#sentaku4{
     text-decoration: none;
     border-radius: 30px;
     cursor: pointer;
-    width: 160px;
+    width: 150px;
     height: 95px;
 }
 .example4 input:checked+label{
@@ -239,8 +239,8 @@ div#sentaku4{
     display: none;
 }
 
-#atari { position:absolute; width:200px; height:40px; top:280px; left:120px; border-radius: 10px; visibility: hidden; }
-#hazure{ position:absolute; width:200px; height:40px; top:280px; left:120px; border-radius: 10px; visibility: hidden;} 
+#atari { position:absolute; width:200px; height:40px; top:280px; left:60px; border-radius: 10px; visibility: hidden; }
+#hazure{ position:absolute; width:200px; height:40px; top:280px; left:60px; border-radius: 10px; visibility: hidden;} 
 
 #kekka{
   position:absolute;

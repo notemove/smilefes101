@@ -50,7 +50,7 @@ nav{
 
 .seikai{
     position:relative;
-		top: 400px;
+		top: 440px;
 		left:50px;
     font-size: 14px;
     width: 160px;
@@ -59,7 +59,7 @@ nav{
 
 div#seikaido{
   position:absolute;
-  top:300px;
+  top:250px;
   left:75px;
   color:rgb(226, 43, 165);
   font-size: 80px;
