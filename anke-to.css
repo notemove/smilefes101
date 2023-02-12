@@ -47,7 +47,7 @@ body{
 }
 .link label{
     position:absolute;
-		top: 250px;
+		top: 240px;
 		left:10px;
     display: block;
     background: #eac3dc;
@@ -60,7 +60,7 @@ body{
     text-decoration: none;
     border-radius: 30px;
     cursor: pointer;
-    width: 300px;
+    width: 280px;
     height: 80px;
     color: #FFF;
 }
