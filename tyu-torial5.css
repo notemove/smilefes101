@@ -39,9 +39,9 @@ nav{
   position:absolute;
   text-align: center;
   top: 640px;
-  left:190px;
+  left:125px;
   font-size: 18px;
-  width:160px;
+  width:125px;
   height: 90px;
   z-index:10000;
 }

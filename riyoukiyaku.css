@@ -28,8 +28,8 @@ html {
 }
 
 h3{
-  max-width: 420px;
-  max-height: 700px;
+  max-width: 320px;
+  max-height: 850px;
   margin-top: 140px;
   font-size:15px;
   overflow-y: scroll; 
